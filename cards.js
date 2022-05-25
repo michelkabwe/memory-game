@@ -1,0 +1,89 @@
+    
+ //array of object contianing path to images
+  //storing images in a map incase I would like to use the images or any assets somewhere else on the page..*/
+
+
+export const cardList = [
+
+{
+    name:'cat',
+    images:'images/cat.png'
+},
+{
+    name:'cat',
+    images:'images/cat.png'
+},
+{
+    name:'dog',
+    images:'images/dog.png'
+},
+{
+    name:'dog',
+    images:'images/dog.png'
+},
+{
+    name:'duck',
+    images:'images/duck.png'
+},
+{
+    name:'duck',
+    images:'images/duck.png'
+},
+{
+    name:'jaguar',
+    images:'images/jaguar.png'
+},
+{
+    name:'jaguar',
+    images:'images/jaguar.png'
+},
+{
+    name:'lion',
+    images:'images/lion.png'
+},
+{
+    name:'lion',
+    images:'images/lion.png'
+},
+{
+    name:'panther',
+    images:'images/panther.png'
+},
+{
+    name:'panther',
+    images:'images/panther.png'
+},
+{
+    name:'snake',
+    images:'images/snake.png'
+},
+{
+    name:'snake',
+    images:'images/snake.png'
+},
+{
+    name:'tiger',
+    images:'images/tiger.png'
+},
+{
+    name:'tiger',
+    images:'images/tiger.png'
+},
+{
+    name:'tiger',
+    images:'images/tiger.png'
+},
+
+{
+    name:'tiger',
+    images:'images/tiger.png'
+},
+{
+    name:'tiger',
+    images:'images/tiger.png'
+},
+{
+    name:'tiger',
+    images:'images/tiger.png'
+}
+]

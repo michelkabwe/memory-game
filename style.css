@@ -1,0 +1,26 @@
+
+body {
+    background: #D68BFA;
+    
+}
+
+.pageContainer {
+    width: 750px;
+    margin:0 auto;
+}
+.gameGrid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 100%;
+    border: solid 1px black;
+}
+
+.gameGrid img {
+    width: 150px;
+    height:150px;
+}
+
+.pair_found {
+    background: blue;
+}
